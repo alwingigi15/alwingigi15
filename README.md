@@ -5,7 +5,7 @@
 <p align="left"> <img src= "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/> </p>
 
 
-<p align="left"> <a href="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="sgokul961" /></a> </p>
+<p align="left"> <a href="https://cdn.dribbble.com/users/1951182/screenshots/8719385/media/858b6a99735cd606153384f0ba9275b8.mp4" alt="sgokul961" /></a> </p>
 
 - 🔭 I’m currently working on 
 
