@@ -1,20 +1,21 @@
-<h1 align="center">Hi 👋, I'm Alwyn Gigi</h1>
-<h3 align="center">A passionate Golang Developer from India</h3>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h1>Hi 👋, I'm Alwyn Gigi</h1>
+    <h3>A passionate Golang Developer from India</h3>
 
-<p align="right"> 
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" height="250"/> </p>
-
-
-- 🔭 I’m currently working on 
-
-- 🌱 I’m currently learning **Golang ,Postgres ,gin ,gRPC,Micro-Services,Clean Code**
-
-
-- 🤝 I’m looking for help with **Job**
-
-- 💬 Ask me about **BACK-END DEVELOPEMENT**
-
-- 📫 How to reach me **alwingigi1504@gmail.com**
+    <ul>
+      <li>🔭 I’m currently working on Golang-RESTFUL</li>
+      <li>🌱 I’m currently learning <strong>Golang, Postgres, gin, gRPC, Micro-Services, Clean Code</strong></li>
+      <li>🤝 I’m looking for help with <strong>Job</strong></li>
+      <li>💬 Ask me about <strong>BACK-END DEVELOPMENT</strong></li>
+      <li>📫 How to reach me <strong>alwingigi1504@gmail.com</strong></li>
+    </ul>
+  </div>
+  
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" height="250"/>
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
