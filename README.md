@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alwyn Gigi</h1>
 <h3 align="center">A passionate Golang Developer from India</h3>
-
-<table>
-  <tr>
-    <td>
       <ul>
         <li>🔭 I’m currently working on Golang-Developer</li>
         <li>🌱 I’m currently learning <strong>Golang, Postgres, Gin, gRPC, Micro-Services, Clean Code</strong></li>
@@ -11,12 +7,7 @@
         <li>💬 Ask me about <strong>BACK-END DEVELOPMENT</strong></li>
         <li>📫 How to reach me <strong>alwingigi1504@gmail.com</strong></li>
       </ul>
-    </td>
-    <td>
       <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" height="250"/>
-    </td>
-  </tr>
-</table>
 
 
 <h3 align="left">Connect with me:</h3>
