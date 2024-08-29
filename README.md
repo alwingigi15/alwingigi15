@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alwyn Gigi</h1>
+<h1 align="center">Hey 👋, I'm Alwyn Gigi</h1>
 <h3 align="center">Code is my canvas; passion is my brush </h3>
 
 <p> 
