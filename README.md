@@ -9,9 +9,6 @@
 
 - 🌱 I’m currently learning **Golang ,Postgres ,gin ,gRPC,REST,Micro-Services,Clean Code**
 
-
-- 🤝 I’m looking for help with **Job**
-
 - 💬 Ask me about **BACK-END DEVELOPEMENT**
 
 - 📫 How to reach me **alwingigi1504@gmail.com**
