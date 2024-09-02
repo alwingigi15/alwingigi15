@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/yeah.lwy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeah.lwy" height="30" width="40" /></a>
-<a href="https://in.linkedin.com/in/alwin-gigi-b727b5249?original_referer=https%3A%2F%2Fwww.google.com%2F" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Flinkedin-icon&psig=AOvVaw2cL1gaQke9g7kmLUCwneJS&ust=1725342263512000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiwv_fGo4gDFQAAAAAdAAAAABAI" alt="yeah.lwy" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/alwin-gigi-b727b5249?original_referer=https%3A%2F%2Fwww.google.com%2F" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="Alwin Gigi" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
