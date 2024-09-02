@@ -2,7 +2,7 @@
 <h3 align="center">Code is my canvas; passion is my brush </h3>
 
 <p> 
-  <img src="https://i.pinimg.com/originals/6e/d5/d1/6ed5d17edc7859c15e4ba8b83186f3c6.gif"height="200" width="1000"/> </p>
+  <img src="https://i.pinimg.com/originals/f3/56/3e/f3563e945aa9c7c37dccacf53ba603a0.gif"height="200" width="1000"/> </p>
 
 
 - 🔭 I’m currently working on Golang
