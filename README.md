@@ -5,7 +5,7 @@
   <img src="https://i.pinimg.com/originals/30/5f/f8/305ff88e24f9460bb79644e197af92a9.gif" height="400" width="1000"/> </p>
 
 
-- 🔭 I’m currently working on **Teqbae pvt Ltd***
+- 🔭 I’m currently working on **Teqbae pvt Ltd**
 
 - 🌱 I’m currently learning **Golang ,Postgres ,gin ,gRPC,REST,Micro-Services,Clean Code**
 
