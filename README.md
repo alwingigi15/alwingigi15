@@ -2,7 +2,7 @@
 <h3 align="center">Code is my canvas; passion is my brush </h3>
 
 <p> 
-  <img src="https://i.pinimg.com/originals/0b/c6/52/0bc652eed72850b4ad71c51bbdcd2fa5.gif" /> </p>
+  <img src="https://i.pinimg.com/originals/93/01/ca/9301cac14ee6c3c0b6c45d01e14e338c.gif" /> </p>
 
 
 - 🔭 I’m currently working on **Teqbae pvt Ltd**
