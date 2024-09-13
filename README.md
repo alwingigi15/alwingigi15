@@ -1,5 +1,10 @@
-<h1 align="center">Hi I'm Alwyn_Gigi</h1>
-<h3 align="center">Code is my canvas; passion is my brush </h3>
+<h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 36px; color: #4CAF50;">
+  Hi I'm Alwyn_Gigi
+</h1>
+<h3 align="center" style="font-family: 'Georgia', serif; font-size: 24px; color: #FF6347;">
+  Code is my canvas; passion is my brush
+</h3>
+
 
 <p> 
   <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif"  height="400" width="1000" /> </p>
